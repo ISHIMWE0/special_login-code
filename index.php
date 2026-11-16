@@ -14,8 +14,11 @@
 
     <section class="welcome-panel">
         <div class="welcome-content">
-            <h1>Welcome Back!</h1>
-            <p>Your account, your security.
+    
+            <h1></h1>
+
+            <p>
+            Your account, your security.
                 Sign up or log in securely using your email.</p>
         </div>
     </section>

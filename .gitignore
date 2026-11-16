@@ -1,2 +1,19 @@
+
+# Composer dependencies
 /vendor/
-/.env
+
+# Environment and private configuration
+.env
+.env.*
+config.php
+
+# Testing scripts
+test_email.php
+test_mongodb.php
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
